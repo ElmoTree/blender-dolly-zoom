@@ -15,3 +15,6 @@ This makes framing a shot far more convenient in some cases. To animate this eff
 ## Compatibility
 - Blender 4.2+ / 5.x (as an Extension).
 - Blender 3.x / 4.1 (as a standard Add-on).
+
+## Support and Documentation
+- Repository: https://github.com/ElmoTree/blender-dolly-zoom

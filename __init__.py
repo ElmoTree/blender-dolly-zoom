@@ -5,6 +5,8 @@ bl_info = {
     "blender": (3, 6, 0),
     "location": "3D View > Sidebar (N) > View | Properties > Camera > Lens",
     "description": "Dolly zoom (Hitchcock effect) with 3D Cursor as focal point, for viewport and camera.",
+    "doc_url": "https://github.com/ElmoTree/blender-dolly-zoom",
+    "tracker_url": "https://github.com/ElmoTree/blender-dolly-zoom",
     "category": "3D View",
     "license": "GPL-3.0-or-later",
 }
